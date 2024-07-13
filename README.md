@@ -14,3 +14,4 @@
 
 <p>&nbsp;</p>
 Среда разработки и конфигурация.pdf
+https://github.com/AndreyBormotov/CertificateNetology/blob/main/Среда%20разработки%20и%20конфигурация.pdf
