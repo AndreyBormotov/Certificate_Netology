@@ -1,5 +1,5 @@
 <p><span style="font-size:18px"><strong><span style="font-family:Tahoma">Сертификаты Нетологии^</span></strong></span></p>
 
-![Среда разработки и конфигурация.pdf](https://github.com/user-attachments/files/16201270/default.pdf)
-
-![Логические операторы и алгоритмы.pdf](https://github.com/user-attachments/files/16201274/default.pdf)
+![Среда разработки и конфигурация](https://github.com/user-attachments/assets/4e318e94-3e1b-43b9-b315-4366d064b520)
+![Логические операторы и алгоритмы](https://github.com/user-attachments/assets/606f4455-4724-4ee6-90f5-914676fe393c)
+![Встроенный язык](https://github.com/user-attachments/assets/7e93f979-2f6f-4595-8f30-b56787142bab)
