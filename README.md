@@ -13,3 +13,4 @@
 <p><strong><span style="font-size:16px"><span style="font-family:Tahoma,Geneva,sans-serif">ПрочиеСертификаты</span></span></strong></p>
 
 <p>&nbsp;</p>
+Среда разработки и конфигурация.pdf
