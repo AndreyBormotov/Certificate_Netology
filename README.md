@@ -4,3 +4,4 @@
 ![Логические операторы и алгоритмы](https://github.com/user-attachments/assets/606f4455-4724-4ee6-90f5-914676fe393c)
 ![Встроенный язык](https://github.com/user-attachments/assets/7e93f979-2f6f-4595-8f30-b56787142bab)
 ![Интерфейс](Интерфейс.pdf)
+Встроенный язык.pdf
