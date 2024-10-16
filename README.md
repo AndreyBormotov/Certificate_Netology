@@ -5,6 +5,6 @@
 ![Встроенный язык](https://github.com/user-attachments/assets/7e93f979-2f6f-4595-8f30-b56787142bab)
 ![Интерфейс](https://github.com/user-attachments/assets/fac746de-c6f0-471a-a967-202aba8cf1ec)
 ![Справочники и документы](https://github.com/user-attachments/assets/618f6a8e-44da-487a-98aa-8f4e4a352c59)
-
+![Регистры](https://github.com/user-attachments/assets/efa09764-a310-4272-b7d8-95631979a072)
 
 
