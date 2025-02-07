@@ -9,3 +9,4 @@
 ![Файлы](https://github.com/user-attachments/assets/6688932f-9ef1-4826-a105-b6f23e2e2aa4)
 ![Интеграция и обмен данными](https://github.com/user-attachments/assets/80ab8b24-d0e6-4afd-adc2-06139176e50e)
 ![Механизмы учета](https://github.com/user-attachments/assets/d8a6ef6a-41b5-450f-9c54-916bfbc003fc)
+![Механизмы расчета](https://github.com/user-attachments/assets/af39da9f-ed45-4f4d-bb5d-c563d26e4c31)
