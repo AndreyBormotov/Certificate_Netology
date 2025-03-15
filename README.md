@@ -10,3 +10,5 @@
 ![Интеграция и обмен данными](https://github.com/user-attachments/assets/80ab8b24-d0e6-4afd-adc2-06139176e50e)
 ![Механизмы учета](https://github.com/user-attachments/assets/d8a6ef6a-41b5-450f-9c54-916bfbc003fc)
 ![Механизмы расчета](https://github.com/user-attachments/assets/af39da9f-ed45-4f4d-bb5d-c563d26e4c31)
+![Бизнес-процессы и задачи](https://github.com/user-attachments/assets/76b45066-ad71-4265-81a1-145237270d00)
+![Доработка Типовых Концигураций](https://github.com/user-attachments/assets/0763becc-19f5-475a-92d2-0d40270eb0dc)
