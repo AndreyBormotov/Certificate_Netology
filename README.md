@@ -2,6 +2,7 @@
 
 ![Тестирование](https://github.com/user-attachments/assets/a4f2841b-39ec-4e90-9733-75935d9adbbd)
 ![Дополнительные возможности платформы 1С Предприятие](https://github.com/user-attachments/assets/e56ea678-2b69-4c27-a38d-1278cb832b11)
+![Мобильная разработка 1С](https://github.com/user-attachments/assets/d4ad7c71-ef7c-4c5f-b895-209572a0c01a)
 ![Библиотека стандартных подсистем](https://github.com/user-attachments/assets/ba89b32b-e62b-4c4c-b1c0-1439272ce920)
 ![Доработка Типовых Концигураций](https://github.com/user-attachments/assets/0763becc-19f5-475a-92d2-0d40270eb0dc)
 ![Бизнес-процессы и задачи](https://github.com/user-attachments/assets/76b45066-ad71-4265-81a1-145237270d00)
