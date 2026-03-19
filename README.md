@@ -1,5 +1,6 @@
 <h2><strong>Мои сертификаты Нетологии</strong></h2>
 
+![1C Программист - расширенный курс](https://github.com/user-attachments/assets/f3da6485-bbda-444d-91c2-aab2ec372bc4)
 ![Тестирование](https://github.com/user-attachments/assets/a4f2841b-39ec-4e90-9733-75935d9adbbd)
 ![Дополнительные возможности платформы 1С Предприятие](https://github.com/user-attachments/assets/e56ea678-2b69-4c27-a38d-1278cb832b11)
 ![Мобильная разработка 1С](https://github.com/user-attachments/assets/d4ad7c71-ef7c-4c5f-b895-209572a0c01a)
