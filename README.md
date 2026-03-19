@@ -20,4 +20,4 @@
 ![Подготовка к сдаче экзаменов 1С:Профессионал и 1С:Специалист](https://github.com/user-attachments/assets/205a33b7-ec94-444f-b049-b63f17f31f31)
 
 
-
+<img src="https://github.com/user-attachments/assets/f3da6485-bbda-444d-91c2-aab2ec372bc4" style="width: 900px; max-width: 100%; height: auto;" alt="1C Программист - расширенный курс">
